@@ -10,9 +10,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=uotlaf.uotlaf)
 
-### My github stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=uotlaf&show_icons=true&theme=gotham" alt="uotlaf" />
-
-### Most used languages
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=uotlaf&layout=compact&langs_count=10&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uotlaf&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=uotlaf&show_icons=true&theme=dark)
